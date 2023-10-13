@@ -18,8 +18,6 @@ sys.path.append('./')
 
 # import dgl
 
-setproctitle.setproctitle('yuh')
-
 modules_class = 'modules.'
 if args.plugin:
     modules_class = 'modules.plugins.'

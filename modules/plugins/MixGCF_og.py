@@ -1,8 +1,4 @@
-'''
-Created on October 1, 2020
 
-@author: Tinglin Huang (huangtinglin@outlook.com)
-'''
 import torch
 import torch.nn as nn
 
